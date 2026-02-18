@@ -35,6 +35,8 @@ AI has become really efficient at accomplishing tasks, including writing code, a
 
 I use AI extensively as an augmented version of traditional search engines, so I don't spend too much time looking for specific things when I can just ask for them, but I don't allow AI to touch my code or to avoid learning complex subjects. The only instances where I ask to generate code is for annoying tasks that interferes with meaninful work, like writing glue TypeScript code for the Objective.ink Safari extension, a totally meaningless integration with browser APIs when the important work is on the stylesheets themselves which I absolutely write myself, they provide human-focused aesthetic solutions to website problems.
 
+LLMs are pretty good at fixing grammar issues for marketing websites so they look professional, English is my second language. For personal writtings, including essays, code comments, READMEs, I don't really care to much though; unless the grammar really interferes with meaning.
+
 ---
 <sup>1</sup> I used to be a web developer since 2012, professionally since 2014, and mostly under the *James Kolce* pseudonym until 2020 or so—that's why my current Github profile starts in 2020. There are a couple of articles and books with that name in case you're curious, although I no longer wish to be linked to anything done during that period and under that name; I was young, stupid, and in a completely different state of mind. From 2020 to 2025 is not bad, but I didn't pursue anything deeply meaningful. The real deal starts in 2026.
 
